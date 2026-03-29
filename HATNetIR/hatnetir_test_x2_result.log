@@ -1,0 +1,950 @@
+------------------------------------------------
+开始测试 Epoch: 2000_E.pth
+时间: Sat Mar 21 17:17:22 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/2000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 31.41dB, SSIM_Y: 0.9001
+[02] bird                 - PSNR_Y: 31.03dB, SSIM_Y: 0.9061
+[03] butterfly            - PSNR_Y: 25.58dB, SSIM_Y: 0.8651
+[04] head                 - PSNR_Y: 30.72dB, SSIM_Y: 0.7870
+[05] woman                - PSNR_Y: 28.29dB, SSIM_Y: 0.8882
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 26.69 dB; 0.7692
+Average PSNR_Y/SSIM_Y: 29.40 dB; 0.8693
+------------------------------------------------
+开始测试 Epoch: 4000_E.pth
+时间: Sat Mar 21 17:17:40 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/4000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 37.18dB, SSIM_Y: 0.9619
+[02] bird                 - PSNR_Y: 37.57dB, SSIM_Y: 0.9741
+[03] butterfly            - PSNR_Y: 29.58dB, SSIM_Y: 0.9375
+[04] head                 - PSNR_Y: 34.79dB, SSIM_Y: 0.8763
+[05] woman                - PSNR_Y: 33.45dB, SSIM_Y: 0.9593
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 31.81 dB; 0.9013
+Average PSNR_Y/SSIM_Y: 34.51 dB; 0.9418
+------------------------------------------------
+开始测试 Epoch: 6000_E.pth
+时间: Sat Mar 21 17:17:57 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/6000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.11dB, SSIM_Y: 0.9645
+[02] bird                 - PSNR_Y: 39.26dB, SSIM_Y: 0.9800
+[03] butterfly            - PSNR_Y: 31.07dB, SSIM_Y: 0.9531
+[04] head                 - PSNR_Y: 35.43dB, SSIM_Y: 0.8835
+[05] woman                - PSNR_Y: 34.76dB, SSIM_Y: 0.9663
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 33.17 dB; 0.9212
+Average PSNR_Y/SSIM_Y: 35.73 dB; 0.9495
+------------------------------------------------
+开始测试 Epoch: 8000_E.pth
+时间: Sat Mar 21 17:18:15 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/8000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.31dB, SSIM_Y: 0.9650
+[02] bird                 - PSNR_Y: 39.99dB, SSIM_Y: 0.9826
+[03] butterfly            - PSNR_Y: 31.93dB, SSIM_Y: 0.9608
+[04] head                 - PSNR_Y: 35.52dB, SSIM_Y: 0.8846
+[05] woman                - PSNR_Y: 35.26dB, SSIM_Y: 0.9686
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 33.77 dB; 0.9276
+Average PSNR_Y/SSIM_Y: 36.20 dB; 0.9523
+------------------------------------------------
+开始测试 Epoch: 10000_E.pth
+时间: Sat Mar 21 17:18:33 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/10000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.39dB, SSIM_Y: 0.9653
+[02] bird                 - PSNR_Y: 40.45dB, SSIM_Y: 0.9843
+[03] butterfly            - PSNR_Y: 32.41dB, SSIM_Y: 0.9643
+[04] head                 - PSNR_Y: 35.60dB, SSIM_Y: 0.8849
+[05] woman                - PSNR_Y: 35.46dB, SSIM_Y: 0.9695
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 34.14 dB; 0.9312
+Average PSNR_Y/SSIM_Y: 36.46 dB; 0.9536
+------------------------------------------------
+开始测试 Epoch: 12000_E.pth
+时间: Sat Mar 21 17:18:51 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/12000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.45dB, SSIM_Y: 0.9656
+[02] bird                 - PSNR_Y: 40.82dB, SSIM_Y: 0.9853
+[03] butterfly            - PSNR_Y: 32.67dB, SSIM_Y: 0.9663
+[04] head                 - PSNR_Y: 35.65dB, SSIM_Y: 0.8854
+[05] woman                - PSNR_Y: 35.55dB, SSIM_Y: 0.9702
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 34.36 dB; 0.9330
+Average PSNR_Y/SSIM_Y: 36.63 dB; 0.9546
+------------------------------------------------
+开始测试 Epoch: 14000_E.pth
+时间: Sat Mar 21 17:19:08 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/14000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.48dB, SSIM_Y: 0.9660
+[02] bird                 - PSNR_Y: 41.16dB, SSIM_Y: 0.9860
+[03] butterfly            - PSNR_Y: 32.92dB, SSIM_Y: 0.9679
+[04] head                 - PSNR_Y: 35.68dB, SSIM_Y: 0.8858
+[05] woman                - PSNR_Y: 35.62dB, SSIM_Y: 0.9706
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 34.55 dB; 0.9344
+Average PSNR_Y/SSIM_Y: 36.77 dB; 0.9553
+------------------------------------------------
+开始测试 Epoch: 16000_E.pth
+时间: Sat Mar 21 17:19:26 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/16000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.54dB, SSIM_Y: 0.9662
+[02] bird                 - PSNR_Y: 41.44dB, SSIM_Y: 0.9868
+[03] butterfly            - PSNR_Y: 33.14dB, SSIM_Y: 0.9691
+[04] head                 - PSNR_Y: 35.74dB, SSIM_Y: 0.8865
+[05] woman                - PSNR_Y: 35.72dB, SSIM_Y: 0.9710
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 34.71 dB; 0.9357
+Average PSNR_Y/SSIM_Y: 36.92 dB; 0.9559
+------------------------------------------------
+开始测试 Epoch: 18000_E.pth
+时间: Sat Mar 21 17:19:44 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/18000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.65dB, SSIM_Y: 0.9665
+[02] bird                 - PSNR_Y: 41.71dB, SSIM_Y: 0.9874
+[03] butterfly            - PSNR_Y: 33.44dB, SSIM_Y: 0.9704
+[04] head                 - PSNR_Y: 35.80dB, SSIM_Y: 0.8873
+[05] woman                - PSNR_Y: 35.84dB, SSIM_Y: 0.9715
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 34.89 dB; 0.9371
+Average PSNR_Y/SSIM_Y: 37.09 dB; 0.9566
+------------------------------------------------
+开始测试 Epoch: 20000_E.pth
+时间: Sat Mar 21 17:20:01 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/20000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.70dB, SSIM_Y: 0.9667
+[02] bird                 - PSNR_Y: 41.90dB, SSIM_Y: 0.9879
+[03] butterfly            - PSNR_Y: 33.70dB, SSIM_Y: 0.9715
+[04] head                 - PSNR_Y: 35.84dB, SSIM_Y: 0.8876
+[05] woman                - PSNR_Y: 35.92dB, SSIM_Y: 0.9719
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.01 dB; 0.9379
+Average PSNR_Y/SSIM_Y: 37.21 dB; 0.9571
+------------------------------------------------
+开始测试 Epoch: 22000_E.pth
+时间: Sat Mar 21 17:20:19 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/22000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.75dB, SSIM_Y: 0.9669
+[02] bird                 - PSNR_Y: 42.08dB, SSIM_Y: 0.9883
+[03] butterfly            - PSNR_Y: 33.88dB, SSIM_Y: 0.9722
+[04] head                 - PSNR_Y: 35.88dB, SSIM_Y: 0.8882
+[05] woman                - PSNR_Y: 35.98dB, SSIM_Y: 0.9722
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.11 dB; 0.9388
+Average PSNR_Y/SSIM_Y: 37.31 dB; 0.9576
+------------------------------------------------
+开始测试 Epoch: 24000_E.pth
+时间: Sat Mar 21 17:20:36 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/24000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.77dB, SSIM_Y: 0.9671
+[02] bird                 - PSNR_Y: 42.18dB, SSIM_Y: 0.9886
+[03] butterfly            - PSNR_Y: 34.05dB, SSIM_Y: 0.9730
+[04] head                 - PSNR_Y: 35.91dB, SSIM_Y: 0.8886
+[05] woman                - PSNR_Y: 36.01dB, SSIM_Y: 0.9724
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.18 dB; 0.9395
+Average PSNR_Y/SSIM_Y: 37.39 dB; 0.9579
+------------------------------------------------
+开始测试 Epoch: 26000_E.pth
+时间: Sat Mar 21 17:20:54 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/26000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.79dB, SSIM_Y: 0.9672
+[02] bird                 - PSNR_Y: 42.30dB, SSIM_Y: 0.9888
+[03] butterfly            - PSNR_Y: 34.13dB, SSIM_Y: 0.9736
+[04] head                 - PSNR_Y: 35.92dB, SSIM_Y: 0.8888
+[05] woman                - PSNR_Y: 36.04dB, SSIM_Y: 0.9727
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.23 dB; 0.9400
+Average PSNR_Y/SSIM_Y: 37.43 dB; 0.9582
+------------------------------------------------
+开始测试 Epoch: 28000_E.pth
+时间: Sat Mar 21 17:21:11 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/28000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.81dB, SSIM_Y: 0.9673
+[02] bird                 - PSNR_Y: 42.38dB, SSIM_Y: 0.9890
+[03] butterfly            - PSNR_Y: 34.26dB, SSIM_Y: 0.9743
+[04] head                 - PSNR_Y: 35.94dB, SSIM_Y: 0.8891
+[05] woman                - PSNR_Y: 36.09dB, SSIM_Y: 0.9730
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.28 dB; 0.9404
+Average PSNR_Y/SSIM_Y: 37.50 dB; 0.9585
+------------------------------------------------
+开始测试 Epoch: 30000_E.pth
+时间: Sat Mar 21 17:21:28 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/30000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.83dB, SSIM_Y: 0.9674
+[02] bird                 - PSNR_Y: 42.45dB, SSIM_Y: 0.9892
+[03] butterfly            - PSNR_Y: 34.42dB, SSIM_Y: 0.9750
+[04] head                 - PSNR_Y: 35.95dB, SSIM_Y: 0.8892
+[05] woman                - PSNR_Y: 36.11dB, SSIM_Y: 0.9730
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.34 dB; 0.9407
+Average PSNR_Y/SSIM_Y: 37.55 dB; 0.9588
+------------------------------------------------
+开始测试 Epoch: 32000_E.pth
+时间: Sat Mar 21 17:21:46 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/32000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.84dB, SSIM_Y: 0.9674
+[02] bird                 - PSNR_Y: 42.54dB, SSIM_Y: 0.9893
+[03] butterfly            - PSNR_Y: 34.52dB, SSIM_Y: 0.9754
+[04] head                 - PSNR_Y: 35.95dB, SSIM_Y: 0.8894
+[05] woman                - PSNR_Y: 36.15dB, SSIM_Y: 0.9731
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.40 dB; 0.9411
+Average PSNR_Y/SSIM_Y: 37.60 dB; 0.9589
+------------------------------------------------
+开始测试 Epoch: 34000_E.pth
+时间: Sat Mar 21 17:22:03 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/34000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.86dB, SSIM_Y: 0.9675
+[02] bird                 - PSNR_Y: 42.63dB, SSIM_Y: 0.9895
+[03] butterfly            - PSNR_Y: 34.65dB, SSIM_Y: 0.9758
+[04] head                 - PSNR_Y: 35.95dB, SSIM_Y: 0.8894
+[05] woman                - PSNR_Y: 36.19dB, SSIM_Y: 0.9733
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.46 dB; 0.9414
+Average PSNR_Y/SSIM_Y: 37.66 dB; 0.9591
+------------------------------------------------
+开始测试 Epoch: 36000_E.pth
+时间: Sat Mar 21 17:22:20 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/36000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.87dB, SSIM_Y: 0.9676
+[02] bird                 - PSNR_Y: 42.69dB, SSIM_Y: 0.9896
+[03] butterfly            - PSNR_Y: 34.74dB, SSIM_Y: 0.9761
+[04] head                 - PSNR_Y: 35.97dB, SSIM_Y: 0.8897
+[05] woman                - PSNR_Y: 36.21dB, SSIM_Y: 0.9734
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.49 dB; 0.9416
+Average PSNR_Y/SSIM_Y: 37.70 dB; 0.9593
+------------------------------------------------
+开始测试 Epoch: 38000_E.pth
+时间: Sat Mar 21 17:22:38 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/38000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.88dB, SSIM_Y: 0.9677
+[02] bird                 - PSNR_Y: 42.76dB, SSIM_Y: 0.9897
+[03] butterfly            - PSNR_Y: 34.84dB, SSIM_Y: 0.9765
+[04] head                 - PSNR_Y: 35.98dB, SSIM_Y: 0.8900
+[05] woman                - PSNR_Y: 36.26dB, SSIM_Y: 0.9737
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.55 dB; 0.9420
+Average PSNR_Y/SSIM_Y: 37.75 dB; 0.9595
+------------------------------------------------
+开始测试 Epoch: 40000_E.pth
+时间: Sat Mar 21 17:22:55 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/40000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.88dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 42.81dB, SSIM_Y: 0.9898
+[03] butterfly            - PSNR_Y: 34.94dB, SSIM_Y: 0.9769
+[04] head                 - PSNR_Y: 35.98dB, SSIM_Y: 0.8901
+[05] woman                - PSNR_Y: 36.28dB, SSIM_Y: 0.9738
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.58 dB; 0.9422
+Average PSNR_Y/SSIM_Y: 37.78 dB; 0.9597
+------------------------------------------------
+开始测试 Epoch: 42000_E.pth
+时间: Sat Mar 21 17:23:13 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/42000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.89dB, SSIM_Y: 0.9677
+[02] bird                 - PSNR_Y: 42.88dB, SSIM_Y: 0.9899
+[03] butterfly            - PSNR_Y: 34.99dB, SSIM_Y: 0.9771
+[04] head                 - PSNR_Y: 35.98dB, SSIM_Y: 0.8904
+[05] woman                - PSNR_Y: 36.30dB, SSIM_Y: 0.9739
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.61 dB; 0.9425
+Average PSNR_Y/SSIM_Y: 37.81 dB; 0.9598
+------------------------------------------------
+开始测试 Epoch: 44000_E.pth
+时间: Sat Mar 21 17:23:31 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/44000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.89dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 42.89dB, SSIM_Y: 0.9900
+[03] butterfly            - PSNR_Y: 35.04dB, SSIM_Y: 0.9772
+[04] head                 - PSNR_Y: 35.99dB, SSIM_Y: 0.8905
+[05] woman                - PSNR_Y: 36.30dB, SSIM_Y: 0.9740
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.63 dB; 0.9426
+Average PSNR_Y/SSIM_Y: 37.82 dB; 0.9599
+------------------------------------------------
+开始测试 Epoch: 46000_E.pth
+时间: Sat Mar 21 17:23:49 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/46000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.89dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 42.92dB, SSIM_Y: 0.9900
+[03] butterfly            - PSNR_Y: 35.11dB, SSIM_Y: 0.9773
+[04] head                 - PSNR_Y: 35.99dB, SSIM_Y: 0.8905
+[05] woman                - PSNR_Y: 36.33dB, SSIM_Y: 0.9740
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.65 dB; 0.9426
+Average PSNR_Y/SSIM_Y: 37.85 dB; 0.9599
+------------------------------------------------
+开始测试 Epoch: 48000_E.pth
+时间: Sat Mar 21 17:24:06 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/48000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.89dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 42.97dB, SSIM_Y: 0.9901
+[03] butterfly            - PSNR_Y: 35.15dB, SSIM_Y: 0.9775
+[04] head                 - PSNR_Y: 36.00dB, SSIM_Y: 0.8908
+[05] woman                - PSNR_Y: 36.35dB, SSIM_Y: 0.9741
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.68 dB; 0.9428
+Average PSNR_Y/SSIM_Y: 37.87 dB; 0.9600
+------------------------------------------------
+开始测试 Epoch: 50000_E.pth
+时间: Sat Mar 21 17:24:24 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/50000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.89dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 42.99dB, SSIM_Y: 0.9901
+[03] butterfly            - PSNR_Y: 35.19dB, SSIM_Y: 0.9777
+[04] head                 - PSNR_Y: 35.99dB, SSIM_Y: 0.8908
+[05] woman                - PSNR_Y: 36.34dB, SSIM_Y: 0.9741
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.69 dB; 0.9429
+Average PSNR_Y/SSIM_Y: 37.88 dB; 0.9601
+------------------------------------------------
+开始测试 Epoch: 52000_E.pth
+时间: Sat Mar 21 17:24:41 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/52000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.90dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 42.99dB, SSIM_Y: 0.9901
+[03] butterfly            - PSNR_Y: 35.23dB, SSIM_Y: 0.9778
+[04] head                 - PSNR_Y: 36.00dB, SSIM_Y: 0.8908
+[05] woman                - PSNR_Y: 36.38dB, SSIM_Y: 0.9743
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.71 dB; 0.9430
+Average PSNR_Y/SSIM_Y: 37.90 dB; 0.9602
+------------------------------------------------
+开始测试 Epoch: 54000_E.pth
+时间: Sat Mar 21 17:24:59 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/54000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.03dB, SSIM_Y: 0.9902
+[03] butterfly            - PSNR_Y: 35.23dB, SSIM_Y: 0.9778
+[04] head                 - PSNR_Y: 36.00dB, SSIM_Y: 0.8909
+[05] woman                - PSNR_Y: 36.42dB, SSIM_Y: 0.9744
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.72 dB; 0.9430
+Average PSNR_Y/SSIM_Y: 37.92 dB; 0.9602
+------------------------------------------------
+开始测试 Epoch: 56000_E.pth
+时间: Sat Mar 21 17:25:16 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/56000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.07dB, SSIM_Y: 0.9902
+[03] butterfly            - PSNR_Y: 35.27dB, SSIM_Y: 0.9780
+[04] head                 - PSNR_Y: 36.01dB, SSIM_Y: 0.8910
+[05] woman                - PSNR_Y: 36.44dB, SSIM_Y: 0.9745
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.74 dB; 0.9432
+Average PSNR_Y/SSIM_Y: 37.94 dB; 0.9603
+------------------------------------------------
+开始测试 Epoch: 58000_E.pth
+时间: Sat Mar 21 17:25:34 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/58000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.04dB, SSIM_Y: 0.9902
+[03] butterfly            - PSNR_Y: 35.28dB, SSIM_Y: 0.9780
+[04] head                 - PSNR_Y: 36.01dB, SSIM_Y: 0.8908
+[05] woman                - PSNR_Y: 36.44dB, SSIM_Y: 0.9745
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.74 dB; 0.9431
+Average PSNR_Y/SSIM_Y: 37.94 dB; 0.9603
+------------------------------------------------
+开始测试 Epoch: 60000_E.pth
+时间: Sat Mar 21 17:25:52 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/60000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.06dB, SSIM_Y: 0.9903
+[03] butterfly            - PSNR_Y: 35.34dB, SSIM_Y: 0.9782
+[04] head                 - PSNR_Y: 36.01dB, SSIM_Y: 0.8909
+[05] woman                - PSNR_Y: 36.47dB, SSIM_Y: 0.9746
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.77 dB; 0.9433
+Average PSNR_Y/SSIM_Y: 37.96 dB; 0.9604
+------------------------------------------------
+开始测试 Epoch: 62000_E.pth
+时间: Sat Mar 21 17:26:10 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/62000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.08dB, SSIM_Y: 0.9903
+[03] butterfly            - PSNR_Y: 35.34dB, SSIM_Y: 0.9782
+[04] head                 - PSNR_Y: 36.01dB, SSIM_Y: 0.8909
+[05] woman                - PSNR_Y: 36.47dB, SSIM_Y: 0.9746
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.77 dB; 0.9433
+Average PSNR_Y/SSIM_Y: 37.96 dB; 0.9603
+------------------------------------------------
+开始测试 Epoch: 64000_E.pth
+时间: Sat Mar 21 17:26:27 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/64000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.07dB, SSIM_Y: 0.9903
+[03] butterfly            - PSNR_Y: 35.33dB, SSIM_Y: 0.9782
+[04] head                 - PSNR_Y: 36.01dB, SSIM_Y: 0.8909
+[05] woman                - PSNR_Y: 36.48dB, SSIM_Y: 0.9746
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.77 dB; 0.9433
+Average PSNR_Y/SSIM_Y: 37.96 dB; 0.9604
+------------------------------------------------
+开始测试 Epoch: 66000_E.pth
+时间: Sat Mar 21 17:26:45 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/66000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.04dB, SSIM_Y: 0.9902
+[03] butterfly            - PSNR_Y: 35.30dB, SSIM_Y: 0.9781
+[04] head                 - PSNR_Y: 36.01dB, SSIM_Y: 0.8910
+[05] woman                - PSNR_Y: 36.45dB, SSIM_Y: 0.9746
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.76 dB; 0.9433
+Average PSNR_Y/SSIM_Y: 37.94 dB; 0.9603
+------------------------------------------------
+开始测试 Epoch: 68000_E.pth
+时间: Sat Mar 21 17:27:03 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/68000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.07dB, SSIM_Y: 0.9903
+[03] butterfly            - PSNR_Y: 35.36dB, SSIM_Y: 0.9783
+[04] head                 - PSNR_Y: 36.02dB, SSIM_Y: 0.8909
+[05] woman                - PSNR_Y: 36.47dB, SSIM_Y: 0.9746
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.77 dB; 0.9433
+Average PSNR_Y/SSIM_Y: 37.96 dB; 0.9604
+------------------------------------------------
+开始测试 Epoch: 70000_E.pth
+时间: Sat Mar 21 17:27:20 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/70000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9680
+[02] bird                 - PSNR_Y: 43.11dB, SSIM_Y: 0.9903
+[03] butterfly            - PSNR_Y: 35.18dB, SSIM_Y: 0.9781
+[04] head                 - PSNR_Y: 36.02dB, SSIM_Y: 0.8913
+[05] woman                - PSNR_Y: 36.45dB, SSIM_Y: 0.9748
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.75 dB; 0.9436
+Average PSNR_Y/SSIM_Y: 37.93 dB; 0.9605
+------------------------------------------------
+开始测试 Epoch: 72000_E.pth
+时间: Sat Mar 21 17:27:37 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/72000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9680
+[02] bird                 - PSNR_Y: 43.08dB, SSIM_Y: 0.9904
+[03] butterfly            - PSNR_Y: 35.12dB, SSIM_Y: 0.9781
+[04] head                 - PSNR_Y: 36.02dB, SSIM_Y: 0.8916
+[05] woman                - PSNR_Y: 36.42dB, SSIM_Y: 0.9748
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.73 dB; 0.9437
+Average PSNR_Y/SSIM_Y: 37.91 dB; 0.9606
+------------------------------------------------
+开始测试 Epoch: 74000_E.pth
+时间: Sat Mar 21 17:27:55 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/74000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.91dB, SSIM_Y: 0.9681
+[02] bird                 - PSNR_Y: 43.08dB, SSIM_Y: 0.9904
+[03] butterfly            - PSNR_Y: 35.15dB, SSIM_Y: 0.9781
+[04] head                 - PSNR_Y: 36.02dB, SSIM_Y: 0.8917
+[05] woman                - PSNR_Y: 36.43dB, SSIM_Y: 0.9748
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.74 dB; 0.9438
+Average PSNR_Y/SSIM_Y: 37.92 dB; 0.9606
+------------------------------------------------
+开始测试 Epoch: 76000_E.pth
+时间: Sat Mar 21 17:28:13 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/76000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.12dB, SSIM_Y: 0.9904
+[03] butterfly            - PSNR_Y: 35.46dB, SSIM_Y: 0.9787
+[04] head                 - PSNR_Y: 36.03dB, SSIM_Y: 0.8912
+[05] woman                - PSNR_Y: 36.51dB, SSIM_Y: 0.9748
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.81 dB; 0.9436
+Average PSNR_Y/SSIM_Y: 38.01 dB; 0.9606
+------------------------------------------------
+开始测试 Epoch: 78000_E.pth
+时间: Sat Mar 21 17:28:30 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/78000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9678
+[02] bird                 - PSNR_Y: 43.09dB, SSIM_Y: 0.9904
+[03] butterfly            - PSNR_Y: 35.47dB, SSIM_Y: 0.9786
+[04] head                 - PSNR_Y: 36.04dB, SSIM_Y: 0.8913
+[05] woman                - PSNR_Y: 36.51dB, SSIM_Y: 0.9748
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.82 dB; 0.9436
+Average PSNR_Y/SSIM_Y: 38.01 dB; 0.9606
+------------------------------------------------
+开始测试 Epoch: 80000_E.pth
+时间: Sat Mar 21 17:28:47 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/80000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.13dB, SSIM_Y: 0.9904
+[03] butterfly            - PSNR_Y: 35.45dB, SSIM_Y: 0.9787
+[04] head                 - PSNR_Y: 36.04dB, SSIM_Y: 0.8914
+[05] woman                - PSNR_Y: 36.53dB, SSIM_Y: 0.9749
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.82 dB; 0.9437
+Average PSNR_Y/SSIM_Y: 38.01 dB; 0.9606
+------------------------------------------------
+开始测试 Epoch: 82000_E.pth
+时间: Sat Mar 21 17:29:05 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/82000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.12dB, SSIM_Y: 0.9904
+[03] butterfly            - PSNR_Y: 35.43dB, SSIM_Y: 0.9787
+[04] head                 - PSNR_Y: 36.04dB, SSIM_Y: 0.8915
+[05] woman                - PSNR_Y: 36.52dB, SSIM_Y: 0.9748
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.82 dB; 0.9437
+Average PSNR_Y/SSIM_Y: 38.01 dB; 0.9607
+------------------------------------------------
+开始测试 Epoch: 84000_E.pth
+时间: Sat Mar 21 17:29:22 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/84000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.15dB, SSIM_Y: 0.9904
+[03] butterfly            - PSNR_Y: 35.48dB, SSIM_Y: 0.9787
+[04] head                 - PSNR_Y: 36.03dB, SSIM_Y: 0.8914
+[05] woman                - PSNR_Y: 36.54dB, SSIM_Y: 0.9748
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.83 dB; 0.9437
+Average PSNR_Y/SSIM_Y: 38.02 dB; 0.9607
+------------------------------------------------
+开始测试 Epoch: 86000_E.pth
+时间: Sat Mar 21 17:29:40 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/86000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.18dB, SSIM_Y: 0.9905
+[03] butterfly            - PSNR_Y: 35.53dB, SSIM_Y: 0.9789
+[04] head                 - PSNR_Y: 36.05dB, SSIM_Y: 0.8917
+[05] woman                - PSNR_Y: 36.53dB, SSIM_Y: 0.9749
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.85 dB; 0.9439
+Average PSNR_Y/SSIM_Y: 38.04 dB; 0.9608
+------------------------------------------------
+开始测试 Epoch: 88000_E.pth
+时间: Sat Mar 21 17:29:57 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/88000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.93dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.23dB, SSIM_Y: 0.9905
+[03] butterfly            - PSNR_Y: 35.51dB, SSIM_Y: 0.9789
+[04] head                 - PSNR_Y: 36.05dB, SSIM_Y: 0.8918
+[05] woman                - PSNR_Y: 36.55dB, SSIM_Y: 0.9750
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.86 dB; 0.9439
+Average PSNR_Y/SSIM_Y: 38.05 dB; 0.9608
+------------------------------------------------
+开始测试 Epoch: 90000_E.pth
+时间: Sat Mar 21 17:30:15 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/90000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.21dB, SSIM_Y: 0.9905
+[03] butterfly            - PSNR_Y: 35.51dB, SSIM_Y: 0.9789
+[04] head                 - PSNR_Y: 36.05dB, SSIM_Y: 0.8918
+[05] woman                - PSNR_Y: 36.55dB, SSIM_Y: 0.9750
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.86 dB; 0.9440
+Average PSNR_Y/SSIM_Y: 38.05 dB; 0.9608
+------------------------------------------------
+开始测试 Epoch: 92000_E.pth
+时间: Sat Mar 21 17:30:32 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/92000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.21dB, SSIM_Y: 0.9905
+[03] butterfly            - PSNR_Y: 35.51dB, SSIM_Y: 0.9790
+[04] head                 - PSNR_Y: 36.06dB, SSIM_Y: 0.8919
+[05] woman                - PSNR_Y: 36.56dB, SSIM_Y: 0.9749
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.86 dB; 0.9440
+Average PSNR_Y/SSIM_Y: 38.05 dB; 0.9608
+------------------------------------------------
+开始测试 Epoch: 94000_E.pth
+时间: Sat Mar 21 17:30:50 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/94000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.92dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.24dB, SSIM_Y: 0.9906
+[03] butterfly            - PSNR_Y: 35.53dB, SSIM_Y: 0.9790
+[04] head                 - PSNR_Y: 36.06dB, SSIM_Y: 0.8919
+[05] woman                - PSNR_Y: 36.58dB, SSIM_Y: 0.9750
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.87 dB; 0.9440
+Average PSNR_Y/SSIM_Y: 38.06 dB; 0.9609
+------------------------------------------------
+开始测试 Epoch: 96000_E.pth
+时间: Sat Mar 21 17:31:07 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/96000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.93dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.27dB, SSIM_Y: 0.9906
+[03] butterfly            - PSNR_Y: 35.55dB, SSIM_Y: 0.9790
+[04] head                 - PSNR_Y: 36.05dB, SSIM_Y: 0.8918
+[05] woman                - PSNR_Y: 36.56dB, SSIM_Y: 0.9750
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.88 dB; 0.9440
+Average PSNR_Y/SSIM_Y: 38.07 dB; 0.9609
+------------------------------------------------
+开始测试 Epoch: 98000_E.pth
+时间: Sat Mar 21 17:31:25 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/98000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.93dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.26dB, SSIM_Y: 0.9906
+[03] butterfly            - PSNR_Y: 35.58dB, SSIM_Y: 0.9791
+[04] head                 - PSNR_Y: 36.06dB, SSIM_Y: 0.8918
+[05] woman                - PSNR_Y: 36.58dB, SSIM_Y: 0.9751
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.89 dB; 0.9440
+Average PSNR_Y/SSIM_Y: 38.08 dB; 0.9609
+------------------------------------------------
+开始测试 Epoch: 100000_E.pth
+时间: Sat Mar 21 17:31:42 CST 2026
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Defining HATNetIR (Scale=2)...
+Loading model from superresolution/hatnetir_sr_classical_patch48_x2/models/100000_E.pth
+HATNetIR Grid Alignment (LCM): 24
+
+Testing on HR ...
+[01] baby                 - PSNR_Y: 38.93dB, SSIM_Y: 0.9679
+[02] bird                 - PSNR_Y: 43.25dB, SSIM_Y: 0.9906
+[03] butterfly            - PSNR_Y: 35.59dB, SSIM_Y: 0.9792
+[04] head                 - PSNR_Y: 36.06dB, SSIM_Y: 0.8920
+[05] woman                - PSNR_Y: 36.60dB, SSIM_Y: 0.9751
+
+Results Saved in: results/hatnetir_classical_sr_x2
+Average PSNR/SSIM(RGB): 35.89 dB; 0.9441
+Average PSNR_Y/SSIM_Y: 38.08 dB; 0.9610

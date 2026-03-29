@@ -1,0 +1,640 @@
+------------------------------------------------
+开始测试 Epoch: 2500_E.pth
+时间: Sat Mar 21 04:32:51 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/2500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 28.66 dB, SSIM_Y: 0.9471
+[02] bird            - PSNR_Y: 31.01 dB, SSIM_Y: 0.9531
+[03] butterfly       - PSNR_Y: 27.23 dB, SSIM_Y: 0.9258
+[04] head            - PSNR_Y: 28.84 dB, SSIM_Y: 0.8441
+[05] woman           - PSNR_Y: 28.40 dB, SSIM_Y: 0.9399
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 27.06 dB / 0.8451
+Average PSNR/SSIM (Y)   : 28.83 dB / 0.9220
+
+------------------------------------------------
+开始测试 Epoch: 5000_E.pth
+时间: Sat Mar 21 04:32:58 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/5000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 37.87 dB, SSIM_Y: 0.9650
+[02] bird            - PSNR_Y: 39.63 dB, SSIM_Y: 0.9831
+[03] butterfly       - PSNR_Y: 30.98 dB, SSIM_Y: 0.9539
+[04] head            - PSNR_Y: 35.49 dB, SSIM_Y: 0.8837
+[05] woman           - PSNR_Y: 34.69 dB, SSIM_Y: 0.9665
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 33.46 dB / 0.9260
+Average PSNR/SSIM (Y)   : 35.73 dB / 0.9505
+
+------------------------------------------------
+开始测试 Epoch: 7500_E.pth
+时间: Sat Mar 21 04:33:04 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/7500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.59 dB, SSIM_Y: 0.9662
+[02] bird            - PSNR_Y: 41.02 dB, SSIM_Y: 0.9861
+[03] butterfly       - PSNR_Y: 32.70 dB, SSIM_Y: 0.9663
+[04] head            - PSNR_Y: 35.77 dB, SSIM_Y: 0.8860
+[05] woman           - PSNR_Y: 35.73 dB, SSIM_Y: 0.9706
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 34.61 dB / 0.9360
+Average PSNR/SSIM (Y)   : 36.76 dB / 0.9550
+
+------------------------------------------------
+开始测试 Epoch: 10000_E.pth
+时间: Sat Mar 21 04:33:11 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/10000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.72 dB, SSIM_Y: 0.9668
+[02] bird            - PSNR_Y: 41.80 dB, SSIM_Y: 0.9878
+[03] butterfly       - PSNR_Y: 33.73 dB, SSIM_Y: 0.9715
+[04] head            - PSNR_Y: 35.87 dB, SSIM_Y: 0.8879
+[05] woman           - PSNR_Y: 36.01 dB, SSIM_Y: 0.9722
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.07 dB / 0.9391
+Average PSNR/SSIM (Y)   : 37.23 dB / 0.9573
+
+------------------------------------------------
+开始测试 Epoch: 12500_E.pth
+时间: Sat Mar 21 04:33:17 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/12500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.80 dB, SSIM_Y: 0.9672
+[02] bird            - PSNR_Y: 42.23 dB, SSIM_Y: 0.9886
+[03] butterfly       - PSNR_Y: 34.14 dB, SSIM_Y: 0.9734
+[04] head            - PSNR_Y: 35.93 dB, SSIM_Y: 0.8895
+[05] woman           - PSNR_Y: 36.13 dB, SSIM_Y: 0.9730
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.28 dB / 0.9406
+Average PSNR/SSIM (Y)   : 37.45 dB / 0.9583
+
+------------------------------------------------
+开始测试 Epoch: 15000_E.pth
+时间: Sat Mar 21 04:33:24 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/15000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.82 dB, SSIM_Y: 0.9674
+[02] bird            - PSNR_Y: 42.52 dB, SSIM_Y: 0.9891
+[03] butterfly       - PSNR_Y: 34.49 dB, SSIM_Y: 0.9750
+[04] head            - PSNR_Y: 35.97 dB, SSIM_Y: 0.8902
+[05] woman           - PSNR_Y: 36.19 dB, SSIM_Y: 0.9734
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.42 dB / 0.9415
+Average PSNR/SSIM (Y)   : 37.60 dB / 0.9590
+
+------------------------------------------------
+开始测试 Epoch: 17500_E.pth
+时间: Sat Mar 21 04:33:30 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/17500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.84 dB, SSIM_Y: 0.9675
+[02] bird            - PSNR_Y: 42.63 dB, SSIM_Y: 0.9893
+[03] butterfly       - PSNR_Y: 34.72 dB, SSIM_Y: 0.9760
+[04] head            - PSNR_Y: 36.00 dB, SSIM_Y: 0.8906
+[05] woman           - PSNR_Y: 36.23 dB, SSIM_Y: 0.9737
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.51 dB / 0.9421
+Average PSNR/SSIM (Y)   : 37.69 dB / 0.9594
+
+------------------------------------------------
+开始测试 Epoch: 20000_E.pth
+时间: Sat Mar 21 04:33:37 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/20000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.87 dB, SSIM_Y: 0.9676
+[02] bird            - PSNR_Y: 42.76 dB, SSIM_Y: 0.9896
+[03] butterfly       - PSNR_Y: 34.92 dB, SSIM_Y: 0.9768
+[04] head            - PSNR_Y: 36.02 dB, SSIM_Y: 0.8910
+[05] woman           - PSNR_Y: 36.28 dB, SSIM_Y: 0.9739
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.59 dB / 0.9426
+Average PSNR/SSIM (Y)   : 37.77 dB / 0.9598
+
+------------------------------------------------
+开始测试 Epoch: 22500_E.pth
+时间: Sat Mar 21 04:33:43 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/22500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.88 dB, SSIM_Y: 0.9677
+[02] bird            - PSNR_Y: 42.89 dB, SSIM_Y: 0.9899
+[03] butterfly       - PSNR_Y: 35.01 dB, SSIM_Y: 0.9772
+[04] head            - PSNR_Y: 36.03 dB, SSIM_Y: 0.8913
+[05] woman           - PSNR_Y: 36.31 dB, SSIM_Y: 0.9741
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.64 dB / 0.9429
+Average PSNR/SSIM (Y)   : 37.82 dB / 0.9600
+
+------------------------------------------------
+开始测试 Epoch: 25000_E.pth
+时间: Sat Mar 21 04:33:50 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/25000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.89 dB, SSIM_Y: 0.9677
+[02] bird            - PSNR_Y: 42.93 dB, SSIM_Y: 0.9900
+[03] butterfly       - PSNR_Y: 35.09 dB, SSIM_Y: 0.9776
+[04] head            - PSNR_Y: 36.04 dB, SSIM_Y: 0.8913
+[05] woman           - PSNR_Y: 36.34 dB, SSIM_Y: 0.9742
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.67 dB / 0.9431
+Average PSNR/SSIM (Y)   : 37.86 dB / 0.9601
+
+------------------------------------------------
+开始测试 Epoch: 27500_E.pth
+时间: Sat Mar 21 04:33:56 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/27500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.89 dB, SSIM_Y: 0.9677
+[02] bird            - PSNR_Y: 43.00 dB, SSIM_Y: 0.9901
+[03] butterfly       - PSNR_Y: 35.14 dB, SSIM_Y: 0.9778
+[04] head            - PSNR_Y: 36.05 dB, SSIM_Y: 0.8915
+[05] woman           - PSNR_Y: 36.37 dB, SSIM_Y: 0.9743
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.70 dB / 0.9433
+Average PSNR/SSIM (Y)   : 37.89 dB / 0.9603
+
+------------------------------------------------
+开始测试 Epoch: 30000_E.pth
+时间: Sat Mar 21 04:34:03 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/30000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.90 dB, SSIM_Y: 0.9677
+[02] bird            - PSNR_Y: 43.05 dB, SSIM_Y: 0.9902
+[03] butterfly       - PSNR_Y: 35.20 dB, SSIM_Y: 0.9780
+[04] head            - PSNR_Y: 36.06 dB, SSIM_Y: 0.8917
+[05] woman           - PSNR_Y: 36.38 dB, SSIM_Y: 0.9744
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.73 dB / 0.9434
+Average PSNR/SSIM (Y)   : 37.92 dB / 0.9604
+
+------------------------------------------------
+开始测试 Epoch: 32500_E.pth
+时间: Sat Mar 21 04:34:09 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/32500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.90 dB, SSIM_Y: 0.9677
+[02] bird            - PSNR_Y: 43.07 dB, SSIM_Y: 0.9903
+[03] butterfly       - PSNR_Y: 35.24 dB, SSIM_Y: 0.9781
+[04] head            - PSNR_Y: 36.06 dB, SSIM_Y: 0.8918
+[05] woman           - PSNR_Y: 36.44 dB, SSIM_Y: 0.9746
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.75 dB / 0.9436
+Average PSNR/SSIM (Y)   : 37.94 dB / 0.9605
+
+------------------------------------------------
+开始测试 Epoch: 35000_E.pth
+时间: Sat Mar 21 04:34:16 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/35000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.91 dB, SSIM_Y: 0.9678
+[02] bird            - PSNR_Y: 43.09 dB, SSIM_Y: 0.9903
+[03] butterfly       - PSNR_Y: 35.28 dB, SSIM_Y: 0.9783
+[04] head            - PSNR_Y: 36.07 dB, SSIM_Y: 0.8919
+[05] woman           - PSNR_Y: 36.44 dB, SSIM_Y: 0.9746
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.77 dB / 0.9437
+Average PSNR/SSIM (Y)   : 37.96 dB / 0.9606
+
+------------------------------------------------
+开始测试 Epoch: 37500_E.pth
+时间: Sat Mar 21 04:34:22 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/37500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.91 dB, SSIM_Y: 0.9678
+[02] bird            - PSNR_Y: 43.16 dB, SSIM_Y: 0.9904
+[03] butterfly       - PSNR_Y: 35.35 dB, SSIM_Y: 0.9785
+[04] head            - PSNR_Y: 36.06 dB, SSIM_Y: 0.8919
+[05] woman           - PSNR_Y: 36.44 dB, SSIM_Y: 0.9746
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.79 dB / 0.9438
+Average PSNR/SSIM (Y)   : 37.98 dB / 0.9606
+
+------------------------------------------------
+开始测试 Epoch: 40000_E.pth
+时间: Sat Mar 21 04:34:29 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/40000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.91 dB, SSIM_Y: 0.9678
+[02] bird            - PSNR_Y: 43.16 dB, SSIM_Y: 0.9904
+[03] butterfly       - PSNR_Y: 35.35 dB, SSIM_Y: 0.9786
+[04] head            - PSNR_Y: 36.07 dB, SSIM_Y: 0.8918
+[05] woman           - PSNR_Y: 36.47 dB, SSIM_Y: 0.9747
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.80 dB / 0.9438
+Average PSNR/SSIM (Y)   : 37.99 dB / 0.9607
+
+------------------------------------------------
+开始测试 Epoch: 42500_E.pth
+时间: Sat Mar 21 04:34:35 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/42500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.92 dB, SSIM_Y: 0.9679
+[02] bird            - PSNR_Y: 43.18 dB, SSIM_Y: 0.9904
+[03] butterfly       - PSNR_Y: 35.40 dB, SSIM_Y: 0.9787
+[04] head            - PSNR_Y: 36.07 dB, SSIM_Y: 0.8920
+[05] woman           - PSNR_Y: 36.49 dB, SSIM_Y: 0.9747
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.82 dB / 0.9439
+Average PSNR/SSIM (Y)   : 38.01 dB / 0.9607
+
+------------------------------------------------
+开始测试 Epoch: 45000_E.pth
+时间: Sat Mar 21 04:34:42 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/45000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.92 dB, SSIM_Y: 0.9679
+[02] bird            - PSNR_Y: 43.18 dB, SSIM_Y: 0.9904
+[03] butterfly       - PSNR_Y: 35.43 dB, SSIM_Y: 0.9788
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8921
+[05] woman           - PSNR_Y: 36.50 dB, SSIM_Y: 0.9747
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.83 dB / 0.9440
+Average PSNR/SSIM (Y)   : 38.02 dB / 0.9608
+
+------------------------------------------------
+开始测试 Epoch: 47500_E.pth
+时间: Sat Mar 21 04:34:48 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/47500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.92 dB, SSIM_Y: 0.9679
+[02] bird            - PSNR_Y: 43.23 dB, SSIM_Y: 0.9905
+[03] butterfly       - PSNR_Y: 35.48 dB, SSIM_Y: 0.9789
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8922
+[05] woman           - PSNR_Y: 36.51 dB, SSIM_Y: 0.9748
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.85 dB / 0.9440
+Average PSNR/SSIM (Y)   : 38.04 dB / 0.9608
+
+------------------------------------------------
+开始测试 Epoch: 50000_E.pth
+时间: Sat Mar 21 04:34:55 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/50000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.92 dB, SSIM_Y: 0.9679
+[02] bird            - PSNR_Y: 43.20 dB, SSIM_Y: 0.9905
+[03] butterfly       - PSNR_Y: 35.46 dB, SSIM_Y: 0.9789
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8923
+[05] woman           - PSNR_Y: 36.53 dB, SSIM_Y: 0.9748
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.85 dB / 0.9441
+Average PSNR/SSIM (Y)   : 38.04 dB / 0.9609
+
+------------------------------------------------
+开始测试 Epoch: 52500_E.pth
+时间: Sat Mar 21 04:35:01 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/52500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.92 dB, SSIM_Y: 0.9679
+[02] bird            - PSNR_Y: 43.16 dB, SSIM_Y: 0.9905
+[03] butterfly       - PSNR_Y: 35.56 dB, SSIM_Y: 0.9792
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8923
+[05] woman           - PSNR_Y: 36.55 dB, SSIM_Y: 0.9749
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.86 dB / 0.9442
+Average PSNR/SSIM (Y)   : 38.05 dB / 0.9609
+
+------------------------------------------------
+开始测试 Epoch: 55000_E.pth
+时间: Sat Mar 21 04:35:08 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/55000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.93 dB, SSIM_Y: 0.9679
+[02] bird            - PSNR_Y: 43.19 dB, SSIM_Y: 0.9905
+[03] butterfly       - PSNR_Y: 35.54 dB, SSIM_Y: 0.9791
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8923
+[05] woman           - PSNR_Y: 36.55 dB, SSIM_Y: 0.9750
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.86 dB / 0.9442
+Average PSNR/SSIM (Y)   : 38.06 dB / 0.9610
+
+------------------------------------------------
+开始测试 Epoch: 57500_E.pth
+时间: Sat Mar 21 04:35:14 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/57500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.93 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.26 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.56 dB, SSIM_Y: 0.9791
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8923
+[05] woman           - PSNR_Y: 36.54 dB, SSIM_Y: 0.9749
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.88 dB / 0.9442
+Average PSNR/SSIM (Y)   : 38.07 dB / 0.9610
+
+------------------------------------------------
+开始测试 Epoch: 60000_E.pth
+时间: Sat Mar 21 04:35:20 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/60000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.93 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.27 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.62 dB, SSIM_Y: 0.9793
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8923
+[05] woman           - PSNR_Y: 36.56 dB, SSIM_Y: 0.9750
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.89 dB / 0.9443
+Average PSNR/SSIM (Y)   : 38.09 dB / 0.9610
+
+------------------------------------------------
+开始测试 Epoch: 62500_E.pth
+时间: Sat Mar 21 04:35:27 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/62500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.93 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.25 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.63 dB, SSIM_Y: 0.9794
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8922
+[05] woman           - PSNR_Y: 36.56 dB, SSIM_Y: 0.9750
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.89 dB / 0.9443
+Average PSNR/SSIM (Y)   : 38.09 dB / 0.9610
+
+------------------------------------------------
+开始测试 Epoch: 65000_E.pth
+时间: Sat Mar 21 04:35:33 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/65000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.93 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.25 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.66 dB, SSIM_Y: 0.9794
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8923
+[05] woman           - PSNR_Y: 36.57 dB, SSIM_Y: 0.9750
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.90 dB / 0.9443
+Average PSNR/SSIM (Y)   : 38.10 dB / 0.9610
+
+------------------------------------------------
+开始测试 Epoch: 67500_E.pth
+时间: Sat Mar 21 04:35:40 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/67500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.93 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.25 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.64 dB, SSIM_Y: 0.9793
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8925
+[05] woman           - PSNR_Y: 36.56 dB, SSIM_Y: 0.9750
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.90 dB / 0.9443
+Average PSNR/SSIM (Y)   : 38.09 dB / 0.9611
+
+------------------------------------------------
+开始测试 Epoch: 70000_E.pth
+时间: Sat Mar 21 04:35:46 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/70000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.94 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.27 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.66 dB, SSIM_Y: 0.9794
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8925
+[05] woman           - PSNR_Y: 36.57 dB, SSIM_Y: 0.9750
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.91 dB / 0.9444
+Average PSNR/SSIM (Y)   : 38.10 dB / 0.9611
+
+------------------------------------------------
+开始测试 Epoch: 72500_E.pth
+时间: Sat Mar 21 04:35:52 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/72500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.94 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.29 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.69 dB, SSIM_Y: 0.9795
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8925
+[05] woman           - PSNR_Y: 36.58 dB, SSIM_Y: 0.9750
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.92 dB / 0.9444
+Average PSNR/SSIM (Y)   : 38.12 dB / 0.9611
+
+------------------------------------------------
+开始测试 Epoch: 75000_E.pth
+时间: Sat Mar 21 04:35:59 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/75000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.94 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.31 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.75 dB, SSIM_Y: 0.9797
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8925
+[05] woman           - PSNR_Y: 36.59 dB, SSIM_Y: 0.9751
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.94 dB / 0.9445
+Average PSNR/SSIM (Y)   : 38.14 dB / 0.9612
+
+------------------------------------------------
+开始测试 Epoch: 77500_E.pth
+时间: Sat Mar 21 04:36:05 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/77500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.95 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.31 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.74 dB, SSIM_Y: 0.9796
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8925
+[05] woman           - PSNR_Y: 36.60 dB, SSIM_Y: 0.9751
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.94 dB / 0.9445
+Average PSNR/SSIM (Y)   : 38.14 dB / 0.9612
+
+------------------------------------------------
+开始测试 Epoch: 80000_E.pth
+时间: Sat Mar 21 04:36:12 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/80000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.94 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.30 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.72 dB, SSIM_Y: 0.9795
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8924
+[05] woman           - PSNR_Y: 36.60 dB, SSIM_Y: 0.9751
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.93 dB / 0.9444
+Average PSNR/SSIM (Y)   : 38.13 dB / 0.9611
+
+------------------------------------------------
+开始测试 Epoch: 82500_E.pth
+时间: Sat Mar 21 04:36:18 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/82500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.95 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.29 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.71 dB, SSIM_Y: 0.9795
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8924
+[05] woman           - PSNR_Y: 36.62 dB, SSIM_Y: 0.9752
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.94 dB / 0.9444
+Average PSNR/SSIM (Y)   : 38.13 dB / 0.9611
+
+------------------------------------------------
+开始测试 Epoch: 85000_E.pth
+时间: Sat Mar 21 04:36:24 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/85000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.95 dB, SSIM_Y: 0.9681
+[02] bird            - PSNR_Y: 43.30 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.74 dB, SSIM_Y: 0.9796
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8926
+[05] woman           - PSNR_Y: 36.62 dB, SSIM_Y: 0.9752
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.94 dB / 0.9445
+Average PSNR/SSIM (Y)   : 38.14 dB / 0.9612
+
+------------------------------------------------
+开始测试 Epoch: 87500_E.pth
+时间: Sat Mar 21 04:36:31 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/87500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.94 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.32 dB, SSIM_Y: 0.9906
+[03] butterfly       - PSNR_Y: 35.80 dB, SSIM_Y: 0.9798
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8926
+[05] woman           - PSNR_Y: 36.62 dB, SSIM_Y: 0.9752
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.96 dB / 0.9446
+Average PSNR/SSIM (Y)   : 38.15 dB / 0.9612
+
+------------------------------------------------
+开始测试 Epoch: 90000_E.pth
+时间: Sat Mar 21 04:36:37 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/90000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.94 dB, SSIM_Y: 0.9680
+[02] bird            - PSNR_Y: 43.33 dB, SSIM_Y: 0.9907
+[03] butterfly       - PSNR_Y: 35.79 dB, SSIM_Y: 0.9797
+[04] head            - PSNR_Y: 36.08 dB, SSIM_Y: 0.8924
+[05] woman           - PSNR_Y: 36.62 dB, SSIM_Y: 0.9752
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.96 dB / 0.9445
+Average PSNR/SSIM (Y)   : 38.15 dB / 0.9612
+
+------------------------------------------------
+开始测试 Epoch: 92500_E.pth
+时间: Sat Mar 21 04:36:43 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/92500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.95 dB, SSIM_Y: 0.9681
+[02] bird            - PSNR_Y: 43.33 dB, SSIM_Y: 0.9907
+[03] butterfly       - PSNR_Y: 35.79 dB, SSIM_Y: 0.9798
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8926
+[05] woman           - PSNR_Y: 36.64 dB, SSIM_Y: 0.9752
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.96 dB / 0.9446
+Average PSNR/SSIM (Y)   : 38.16 dB / 0.9613
+
+------------------------------------------------
+开始测试 Epoch: 95000_E.pth
+时间: Sat Mar 21 04:36:50 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/95000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.95 dB, SSIM_Y: 0.9681
+[02] bird            - PSNR_Y: 43.36 dB, SSIM_Y: 0.9907
+[03] butterfly       - PSNR_Y: 35.78 dB, SSIM_Y: 0.9797
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8926
+[05] woman           - PSNR_Y: 36.64 dB, SSIM_Y: 0.9753
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.97 dB / 0.9446
+Average PSNR/SSIM (Y)   : 38.16 dB / 0.9613
+
+------------------------------------------------
+开始测试 Epoch: 97500_E.pth
+时间: Sat Mar 21 04:36:56 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/97500_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.95 dB, SSIM_Y: 0.9681
+[02] bird            - PSNR_Y: 43.35 dB, SSIM_Y: 0.9907
+[03] butterfly       - PSNR_Y: 35.81 dB, SSIM_Y: 0.9797
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8926
+[05] woman           - PSNR_Y: 36.64 dB, SSIM_Y: 0.9753
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.97 dB / 0.9446
+Average PSNR/SSIM (Y)   : 38.17 dB / 0.9613
+
+------------------------------------------------
+开始测试 Epoch: 100000_E.pth
+时间: Sat Mar 21 04:37:03 PM CST 2026
+Loading weights from superresolution/dar_swinir_sr_classical_patch48_x2/models/100000_E.pth
+
+Testing DAR-SwinIR on HR ...
+[01] baby            - PSNR_Y: 38.96 dB, SSIM_Y: 0.9681
+[02] bird            - PSNR_Y: 43.39 dB, SSIM_Y: 0.9907
+[03] butterfly       - PSNR_Y: 35.81 dB, SSIM_Y: 0.9797
+[04] head            - PSNR_Y: 36.09 dB, SSIM_Y: 0.8925
+[05] woman           - PSNR_Y: 36.65 dB, SSIM_Y: 0.9754
+
+--- Final Results saved to: results/DAR_SwinIR_x2 ---
+Average PSNR/SSIM (RGB) : 35.98 dB / 0.9446
+Average PSNR/SSIM (Y)   : 38.18 dB / 0.9613
+
