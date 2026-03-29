@@ -2,9 +2,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 基于 SwinIR、HAT-Net、CFFM++ 等前沿视觉模型的复现与改进项目集合。包含图像超分辨率、语义分割等任务的模型变体与消融实验。
+
+**声明**：本仓库仅用于学术研究。如涉及任何侵权问题，请联系删除。
 
 ---
 
@@ -16,7 +17,6 @@ CV-Model-Variants/
 ├── DAR-SwinIR/ # DAR 变体: 深度注意力路由
 ├── CFFM++/ # CFFM++ + VMamba 架构融合
 └── swinir_series_test_results/ # 测试结果可视化
-
 
 ---
 
@@ -127,36 +127,29 @@ SwinIR_Repro 复现结果
 HATNetIR 迁移结果
 
 HATNetIR2 完整训练曲线结果
-
----
-
-
-## 📦 预训练权重
-
+📦 预训练权重
 所有模型的预训练权重已上传至 Google Drive，包含：
 
-- SwinIR (×2) 复现权重
-- HATNetIR 迁移权重
-- DAR-SwinIR 系列权重 (DAR1 / DAR1.5 / DAR2.5)
-- VMamba-CFFM++ 权重
+SwinIR (×2) 复现权重
 
-🔗 **下载链接**：[Google Drive - CV-Model-Variants 权重](https://drive.google.com/drive/folders/1wrAMu4Z54rtBZB_y3CAMbtPaDpXDiJjR?usp=drive_link)
+HATNetIR 迁移权重
 
+DAR-SwinIR 系列权重 (DAR1 / DAR1.5 / DAR2.5)
 
+VMamba-CFFM++ 权重
 
-📝 引用
-若本仓库对您的研究有帮助，请引用相关论文：
-@inproceedings{swinir2021,
+🔗 Google Drive 下载链接
+@inproceedings{liang2021swinir,
   title={SwinIR: Image Restoration Using Swin Transformer},
   author={Liang, Jingyun and Cao, Jiezhang and Sun, Guolei and Zhang, Kai and Van Gool, Luc and Timofte, Radu},
-  booktitle={ICCV},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2021}
 }
 
-@article{hatnet2024,
+@article{chen2024hatnet,
   title={HAT-Net: Hierarchical Attention Transformer for Image Restoration},
   author={Chen, Xiangyu and Wang, Xintao and Zhou, Jiantao and Qiao, Yu and Dong, Chao},
-  journal={Machine Intelligence Research},
+  journal={Machine Intelligence Research (MIR)},
   year={2024}
 }
 
@@ -166,15 +159,3 @@ HATNetIR2 完整训练曲线结果
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
   year={2024}
 }
-
-📄 License
-
-👤 Author
-ChiangChoice
-
-GitHub: @ChiangChoice
-
-Email: chiangchoice01@gmail.com
-
-⭐ Star History
-如果这个项目对你有帮助，欢迎 Star ⭐
