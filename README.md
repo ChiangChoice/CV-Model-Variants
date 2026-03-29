@@ -128,8 +128,8 @@ pip install opencv-python matplotlib
 `swinir_series_test_results/` 目录包含：
 - GT (Ground Truth) 参考图像
 - SwinIR_Repro 复现结果
-- HATNetIR 迁移结果
-- HATNetIR2 完整训练曲线结果
+- HATNetIR 测试结果
+- HATNetIR2 测试结果
 
 ---
 
@@ -139,6 +139,7 @@ pip install opencv-python matplotlib
 - SwinIR (×2) 复现权重
 - HATNetIR 迁移权重
 - DAR-SwinIR 系列权重 (DAR1 / DAR1.5 / DAR2.5)
+- CFFM++ 复现权重
 - VMamba-CFFM++ 权重
 
 🔗 [Google Drive 下载链接](https://drive.google.com/drive/folders/1wrAMu4Z54rtBZB_y3CAMbtPaDpXDiJjR?usp=drive_link)
