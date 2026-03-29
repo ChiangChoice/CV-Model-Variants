@@ -60,7 +60,7 @@ CV-Model-Variants/
 - Patch Merging Pool 无损下采样 (PixelUnshuffle)
 
 **HATNetIR 结果**：
-- 100k 迭代 PSNR: **38.01 dB**
+- 100k 迭代 PSNR: **38.08 dB**
 - 计算量: 22.40G FLOPs (比 SwinIR 降低 **17%**)
 
 ---
