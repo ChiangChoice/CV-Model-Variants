@@ -56,7 +56,7 @@ CV-Model-Variants/
 - ImageNet-1K Top-1: **79.30%** (论文 79.80%)
 
 **HATNetIR 创新点**：
-- 空间网格注意力 + 通道注意力交替耦合机制
+- 分层注意力 + 通道注意力交替耦合机制
 - Patch Merging Pool 无损下采样 (PixelUnshuffle)
 
 **HATNetIR 结果**：
@@ -160,7 +160,7 @@ pip install opencv-python matplotlib
 
 @article{chen2024hatnet,
   title={HAT-Net: Hierarchical Attention Transformer for Image Restoration},
-  author={Chen, Xiangyu and Wang, Xintao and Zhou, Jiantao and Qiao, Yu and Dong, Chao},
+  author={Yun Liu, Yu-Huan Wu, Guolei Sun, et al},
   journal={Machine Intelligence Research},
   year={2024}
 }
