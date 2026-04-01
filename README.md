@@ -101,7 +101,7 @@ CV-Model-Variants/
 | CFFM | MiT-B0 | 34.89% |
 | CFFM++ | MiT-B0 | 35.26% |
 | VMamba-CFFM | VMamba-Tiny | 40.19% |
-| VMamba-CFFM++ | VMamba-Tiny | 40.86% |
+| VMamba-CFFM++ | VMamba-Tiny | 40.94% |
 
 **观察**：VMamba 在 ImageNet-1K 预训练下受短序列局限，性能不及同规模 MiT，初步验证了 MambaOut (CVPR 2025) 的观点。
 
@@ -158,7 +158,7 @@ pip install opencv-python matplotlib
   year={2021}
 }
 
-@article{chen2024hatnet,
+@article{yun2024hatnet,
   title={HAT-Net: Hierarchical Attention Transformer for Image Restoration},
   author={Yun Liu, Yu-Huan Wu, Guolei Sun, et al},
   journal={Machine Intelligence Research},
